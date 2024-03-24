@@ -1,3 +1,3 @@
 # Project Buttons App
 
-Buttons Basic en Android usando Jetpack Compose
+Buttons Basic in Android using Jetpack Compose
